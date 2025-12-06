@@ -1,6 +1,9 @@
 # Koruboodo (New Version)
-This is an updated version of the Koruboodo board game with new rules and changes I designed.
-Kani waa nooc cusub oo ciyaarta Korubooto. Waxay leedahay sharciyo iyo isbeddello cusub oo aniga aan dejiyay.
+**eng**:
+> This is an updated version of the Koruboodo board game with new rules and changes I designed.
+
+**som**:
+> Kani waa nooc cusub oo ciyaarta Korubooto. Waxay leedahay sharciyo iyo isbeddello cusub oo aniga aan dejiyay.
 
 # Koruboodo (Original)
 Ciyaartan waxa la dhaha Kor-u-boodo, waa ciyaar ay Somalidu ciyaari jireen wakhtiyadii hore. Ciyaartan kaliya kumay eegayn degaanka Somaalida, waxay u gudubtay daafaha caalamka.
