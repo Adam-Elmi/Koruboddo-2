@@ -1,4 +1,4 @@
-# Koruboodo (Modern Version)
+# Koruboodo 2
 **eng**:
 > This is an updated version of the Koruboodo board game with new rules and changes I designed.
 
